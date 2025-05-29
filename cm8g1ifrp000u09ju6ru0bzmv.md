@@ -2,9 +2,10 @@
 title: "Verifying ECDSA signatures"
 seoTitle: "Smart Contract Design Patterns Newsletter"
 seoDescription: "Smart Contract Design Patterns Newsletter by Andrej Rakic - Verifying ECDSA signatures article"
-datePublished: Wed Mar 19 2025 14:51:07 GMT+0000 (Coordinated Universal Time)
+datePublished: Wed May 28 2025 22:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm8g1ifrp000u09ju6ru0bzmv
 slug: verifying-ecdsa-signatures
+canonical: https://andrej.hashnode.dev/verifying-ecdsa-signatures
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1742395660855/23d6878b-cae8-4625-9079-4b9fd1713674.jpeg
 tags: design-patterns, solidity, smart-contracts, ecdsa
 
