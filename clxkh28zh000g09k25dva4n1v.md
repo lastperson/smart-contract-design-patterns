@@ -56,7 +56,7 @@ To implement it for a quiz example, we would need to add:
 * A function to reveal the guess used to generate the previously committed hash
     
 
-To keep things fair, it is advisable to split these two processes by forcing some time to pass between the commit and reveal phases. This prevents the attacker from calling the commit function while reveal is being mined.
+To keep things fair, it is advisable to split these two processes by forcing some time to pass between the commit and reveal phases. This prevents Bob from calling the commit/reveal function while Alice's reveal is being mined.
 
 ```solidity
 contract Quiz {
